@@ -1908,7 +1908,7 @@ var CHAIN_INFORMATION = /*#__PURE__*/new Map([[1, {
 }], [344106930, {
   id: 344106930,
   nativeCurrency: SFUEL,
-  type: 'skale',
+  type: 'skaleTest',
   fullName: 'SKALE Calypso Testnet',
   shortName: 'SKL Testnet',
   explorerUrl: "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com/",
