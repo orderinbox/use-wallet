@@ -1900,17 +1900,25 @@ var CHAIN_INFORMATION = /*#__PURE__*/new Map([[1, {
 }], [1564830818, {
   id: 1564830818,
   nativeCurrency: SFUEL,
-  type: 'skale',
-  fullName: 'SKALE Calypso Mainnet',
-  shortName: 'SKL',
+  type: 'skaleCalypso',
+  fullName: 'SKALE Calypso Hub',
+  shortName: 'SKL Calypso',
   explorerUrl: "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com/",
+  testnet: false
+}], [2046399126, {
+  id: 2046399126,
+  nativeCurrency: SFUEL,
+  type: 'skaleEuropa',
+  fullName: 'SKALE Europa Hub',
+  shortName: 'SKL Europa',
+  explorerUrl: "https://elated-tan-skat.explorer.mainnet.skalenodes.com/",
   testnet: false
 }], [344106930, {
   id: 344106930,
   nativeCurrency: SFUEL,
-  type: 'skaleTest',
+  type: 'skaleCalypsoTest',
   fullName: 'SKALE Calypso Testnet',
-  shortName: 'SKL Testnet',
+  shortName: 'SKL Calypso Test',
   explorerUrl: "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com/",
   testnet: true
 }], [1337, {
